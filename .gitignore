@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Built application files
 *.apk
 *.ap_
@@ -64,4 +63,3 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
->>>>>>> 2a6e5081137cf91d9766728073f45a87d736dc00
