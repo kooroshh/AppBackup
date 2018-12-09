@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppBackup</string>
+    <drawable name="blue">#770000ff</drawable>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <apps.x0r.ir.abackup.CheckableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp" >
+        <ImageView
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:id="@+id/imageView"
+            android:src="@android:drawable/ic_menu_mapmode"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Application"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:minLines="2"
+            android:maxLines="2" />
+    </apps.x0r.ir.abackup.CheckableLayout>
